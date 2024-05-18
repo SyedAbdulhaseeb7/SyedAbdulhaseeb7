@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm abdul haseeb</h1>
 <h3 align="center">IM full-Stack developer from { PAKISTAN }</h3>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="syed-abdul-2640572b5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/syed-abdul-2640572b5?trk=profile-badge">SYED ABDUL</a></div>
+              
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedabdulhaseeb7&label=Profile%20views&color=e6de00&style=flat" alt="syedabdulhaseeb7" /> </p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="syed-abdul-2640572b5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/syed-abdul-2640572b5?trk=profile-badge">SYED ABDUL</a></div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedabdulhaseeb7" alt="syedabdulhaseeb7" /></a> </p>
 
 - 🔭 I’m currently working on [Javascript Nodejs](https://github.com/SyedAbdulhaseeb7/student_result_haseeb.git)
