@@ -23,14 +23,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 </p>
-
-### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
-
-<img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yobasu2015@gmail.com">   
-<a  href="femidahaseeb7@gmail.com"><img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
-<a href="https://www.instagram.com/i_haseeb_shaikh/"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
-<a href="https://www.linkedin.com/in/syed-abdul-2640572b5/"><img src="https://img.shields.io/badge/@yobasu2015-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
-
 <hr>
 
 ### Here are some ideas to help you get started:
