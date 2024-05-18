@@ -5,8 +5,7 @@
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="syed-abdul-2640572b5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/syed-abdul-2640572b5?trk=profile-badge">SYED ABDUL</a></div>
 
 
-<img align='right' src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="230">
-<h2>  <a href='https://bento.me/ayon-ssp' target="_blank">SOFTWARE DEVELOPER</a>! <img src="Profile2/run.png" width="50"><img align='right' src="https://spotify-bar.vercel.app/api/now-playing" width="500"></h2>
+
 
 
 
@@ -27,7 +26,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
+<img align='right' src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="230">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 <p> 
