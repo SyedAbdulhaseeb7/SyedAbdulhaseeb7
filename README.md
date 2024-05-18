@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm abdul haseeb</h1>
+<h1 align="center">👋, I'm abdul haseeb</h1>
 <h3 align="center">IM full-Stack developer from { PAKISTAN }</h3>
 
 
@@ -6,7 +6,7 @@
 
 
 <img align='right' src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="230">
-<h2> Hi, I'm <a href='https://bento.me/ayon-ssp' target="_blank">SYED</a>! <img src="Profile2/run.png" width="50"><img align='right' src="https://spotify-bar.vercel.app/api/now-playing" width="500"></h2>
+<h2>  <a href='https://bento.me/ayon-ssp' target="_blank">SOFTWARE DEVELOPER</a>! <img src="Profile2/run.png" width="50"><img align='right' src="https://spotify-bar.vercel.app/api/now-playing" width="500"></h2>
 
 
 
