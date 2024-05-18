@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm abdul haseeb</h1>
 <h3 align="center">IM full-Stack developer from { PAKISTAN }</h3>
-<h2> Hi, I'm <a href='https://bento.me/ayon-ssp' target="_blank">Ayon</a>! <img src="Profile2/run.png" width="50"><img align='right' src="https://spotify-bar.vercel.app/api/now-playing" width="500"></h2>
+
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="syed-abdul-2640572b5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/syed-abdul-2640572b5?trk=profile-badge">SYED ABDUL</a></div>
               
