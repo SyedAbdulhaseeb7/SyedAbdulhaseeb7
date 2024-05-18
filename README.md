@@ -2,7 +2,21 @@
 <h3 align="center">IM full-Stack developer from { PAKISTAN }</h3>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="syed-abdul-2640572b5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/syed-abdul-2640572b5?trk=profile-badge">SYED ABDUL</a></div>
               
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedabdulhaseeb7&label=Profile%20views&color=e6de00&style=flat" alt="syedabdulhaseeb7" /> </p>
+
+# Hey there ! I am Sharannyo Basu ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+</p>
+
+### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
+
+<img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yobasu2015@gmail.com">   <a  href="https://www.instagram.com/sharannyo_/"><img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/sharannyobasu/"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://medium.com/@yobasu2015"><img src="https://img.shields.io/badge/@yobasu2015-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
+
+<hr>
+
+### Here are some ideas to help you get started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedabdulhaseeb7" alt="syedabdulhaseeb7" /></a> </p>
 
